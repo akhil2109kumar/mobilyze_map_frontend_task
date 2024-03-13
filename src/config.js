@@ -1,2 +1,2 @@
-const googleApiKey = 'AIzaSyAteoDgf4ZO0e-BraLQvLYUAyBgI_b1oBs'
+const googleApiKey = ''
 export default googleApiKey;
